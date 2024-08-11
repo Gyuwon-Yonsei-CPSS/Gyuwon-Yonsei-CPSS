@@ -12,7 +12,7 @@ Welcome to my GitHub Portfolio! Here, you'll find my projects, contributions, an
 
 - **Matter Standard Protocol Security**
 - **IoT Black Box Fuzzing**
-- **Firmware Over The Air Security**
+- **AI Convergence Security**
 - **IoT Security**
 - **Cyber physical System Security**
 
