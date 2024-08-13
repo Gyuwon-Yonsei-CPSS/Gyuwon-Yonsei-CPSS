@@ -2,12 +2,6 @@
 
 Welcome to my GitHub Portfolio! Here, you'll find my projects, contributions, and research work in the field of IoT and Cyber Physical System Security.
 
-## 🛠️ Skills & Expertise
-
-- **Programming Languages:** Python, C/C++, Java
-- **Specialization:** IoT Security, Cyber Physical Systems Security, Digital Forensics
-- **Tools & Platforms:** Git, Raspberry Pi, Wireshark, Ida
-
 ## 🔍 Research Interests
 
 - **Matter Standard Protocol Security**
@@ -39,14 +33,10 @@ Welcome to my GitHub Portfolio! Here, you'll find my projects, contributions, an
   
 ## 🏆 Achievements & Activities
 
-- **HSPACE IoT Hacking Seminar Winner** (October 2023)
+- **HSPACE) IoT Hacking Seminar Winner** (October 2023)
 - **Digital Forensics Expert Certification (Level 2)** (May 2023)
-- **College Student Cyber National Security Academy** (June 2023)
+- **NIS) College Student Cyber National Security Academy** (June 2023)
 
-## 🌐 Publications & Presentations
-
-- **[Anomaly Detection Techniques for IoT Messaging Protocol](#)**
-- **[Ransomware Analysis Training Platform (RATP)](#)**
 
 ## 🔗 Links
 
