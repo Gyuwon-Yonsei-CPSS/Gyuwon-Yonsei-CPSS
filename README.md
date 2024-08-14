@@ -1,14 +1,15 @@
-# 👨‍💻 Gyuwon Lee's Portfolio
+# 👨‍💻 Gyuwon
 
-Welcome to my GitHub Portfolio! Here, you'll find my projects, contributions, and research work in the field of IoT and Cyber Physical System Security.
+Welcome!
+Here, you'll find my projects, contributions, and research work in the field of IoT and Cyber Physical System Security.
 
 ## 🔍 Research Interests
 
 - **Matter Standard Protocol Security**
-- **IoT Black Box Fuzzing**
+- **Cyber Physical System Security**
 - **AI Convergence Security**
 - **IoT Security**
-- **Cyber physical System Security**
+
 
 ## 🎓 Education
 
@@ -16,7 +17,7 @@ Welcome to my GitHub Portfolio! Here, you'll find my projects, contributions, an
   Dongguk University WISE, Gyeongju, Korea (2020.03 ~ 2025.02)
 - **Security Training:**  
   - K-Shield Jr. Security Incident Analysis Response (KISA)
-  - BOB Digital Forensics Track (KITRI)
+  - Best Of The Best Digital Forensics Track (KITRI)
 
 ## 💼 Work Experience
 - **Undergraduate Internship in Yonsei University - CPSS Lab (2024.06 ~ )** 
@@ -26,13 +27,14 @@ Welcome to my GitHub Portfolio! Here, you'll find my projects, contributions, an
 
 ## 🔬 Projects
 
-- **IoT FOTA Security Research**  
+- **IoT Firmware Over The Air Security Research**  
   Team Leader.
 - **LG UP Home Appliances Vulnerability Analysis**  
   Project Manager.
   
 ## 🏆 Achievements & Activities
 
+- **Naver Connect) Boost Course Let's AI 2024 Coaching Study, Leader.** (2024.05)
 - **HSPACE) IoT Hacking Seminar Winner** (October 2023)
 - **Digital Forensics Expert Certification (Level 2)** (May 2023)
 - **NIS) College Student Cyber National Security Academy** (June 2023)
