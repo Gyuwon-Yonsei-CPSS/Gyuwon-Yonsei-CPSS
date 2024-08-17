@@ -1,12 +1,7 @@
 # 👨‍💻 Gyuwon Lee
 
-Welcome to my GitHub! Here, you'll find my projects, contributions, and research work in the field of IoT and Cyber Physical System Security.
-
----
-
-![Gyuwon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gyuwon-Yonsei-CPSS&show_icons=true&theme=material-palenight&hide=prs,issues)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyuwon-Yonsei-CPSS&layout=compact&theme=material-palenight&langs_count=6)
+Welcome to my GitHub! 
+Here, you'll find my projects, contributions, and research work in the field of IoT and Cyber Physical System Security.
 
 ---
 
@@ -56,5 +51,12 @@ Feel free to explore my repositories and connect with me on LinkedIn!
 
 ---
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gyuwon-Yonsei-CPSS)
+## 📊 GitHub Stats & Top Languages
 
+![Gyuwon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gyuwon-Yonsei-CPSS&show_icons=true&theme=blueberry&hide=prs,issues&bg_color=30,003476,808080&title_color=ffffff&text_color=ffffff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyuwon-Yonsei-CPSS&layout=compact&theme=blueberry&bg_color=30,003476,808080&title_color=ffffff&text_color=ffffff)
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Gyuwon-Yonsei-CPSS.visitor-badge)
