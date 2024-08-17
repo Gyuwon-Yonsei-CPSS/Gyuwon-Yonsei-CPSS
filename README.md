@@ -1,7 +1,9 @@
 # 👨‍💻 Gyuwon Lee
 
-Welcome to my GitHub! 
+Welcome to my GitHub!
+
 Here, you'll find my projects, contributions, and research work in the field of IoT and Cyber Physical System Security.
+
 
 ---
 
@@ -51,7 +53,7 @@ Feel free to explore my repositories and connect with me on LinkedIn!
 
 ---
 
-## 📊 GitHub Stats & Top Languages
+## 📊 GitHub Stats & Most Used Languages
 
 ![Gyuwon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gyuwon-Yonsei-CPSS&show_icons=true&theme=blueberry&hide=prs,issues&bg_color=30,003476,808080&title_color=ffffff&text_color=ffffff)
 
